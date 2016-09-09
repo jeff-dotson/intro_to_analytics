@@ -1,7 +1,7 @@
-title            : Template R DataCamp Course
+title            : An Introducion to R
 author_field     : thesoulutions
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
+description      : This is a test course desigend to illustrate how the datacamp environment can be used to build marketing examples.
 author_bio       : thesoulutions is an awesome DataCamp course creator.<br>You can tell something about yourself <strong>here</strong>.
 university       : DataCamp
-difficulty_level : 2
+difficulty_level : 1
 time_needed      : 1 hour
